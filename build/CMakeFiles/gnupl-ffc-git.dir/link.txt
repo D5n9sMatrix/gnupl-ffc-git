@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgnupl-ffc-git.a CMakeFiles/gnupl-ffc-git.dir/gnupl-ffc-git.cpp.o
+/usr/bin/ranlib libgnupl-ffc-git.a

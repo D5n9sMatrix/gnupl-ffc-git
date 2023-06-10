@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/ffc/gnupl-ffc-git/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/gnupl-ffc-git.dir/gnupl-ffc-git.cpp.o -c /home/denis/ffc/gnupl-ffc-git/gnupl-ffc-git.cpp",
+  "file": "/home/denis/ffc/gnupl-ffc-git/gnupl-ffc-git.cpp"
+}
+]
